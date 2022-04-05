@@ -8,9 +8,12 @@ footer{
     justify-content: space-evenly;
     color: white;
     .logo{
-        height:42px;
-        width: 136px;
-        background-image: url("../images/logo.png");
+        height:75px;
+        width: 110px;
+        background-image: url("../images/logo.jpg");
+        background-position: center;
+        background-size: 70%;
+        background-repeat: no-repeat;
     }
     .text
     {
